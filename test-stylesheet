@@ -1,0 +1,8 @@
+header{
+    color: white;
+    background-color: darkslategrey;
+}
+
+main{
+    margin: 2px 0;
+}
