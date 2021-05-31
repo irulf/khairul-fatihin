@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>irul's page</title>
+        <link rel="stylesheet" href="test stylesheet.css">
+    </head>
+    <body>
+        <header>
+            <h1>irul belajar koding</h1>
+            <h2>this is a test page</h2>
+        </header>
+        <main>
+            <h2>Halo Dunia!</h2>
+            <p>hari ini tanggal 31 Mei kurleb 1 bulan sejak pelatihan dari kominfo selesai. Bagi peserta yang menyelesaikan pelatihan, mendapatkan 3 bulan akses progate secara gratis. Semoga dengan fasilitas ini aku bisa mengembangkan keterampilanku. <b>SEMANGAAT!!</b></p>
+            <img src="https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif">
+        </main>
+        <footer>
+            <h3>Terima Kasih</h3>
+            <p>Wish me luck!</p>
+        </footer>
+    </body>
+</html>
